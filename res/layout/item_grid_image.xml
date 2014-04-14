@@ -25,6 +25,6 @@
         android:layout_gravity="bottom"
         android:text="Total Likes"
         android:textAppearance="?android:attr/textAppearanceSmall"
-        android:textColor="@android:color/white" />
+        android:textColor="@color/White"  />
 
 </FrameLayout>
